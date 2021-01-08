@@ -1,8 +1,9 @@
 # Lectures
 
-This module introduces fluid flow in the crust and the interaction of fluids with geological processes such as heat flow and deformation. The lecture part of the course (LV1) first introduces the basic physics of crustal fluid flow, heat flow and deformation (lectures 1-6). Subsequently there are three lectures on the main driving forces of crustal fluid flow: topography or -recharge driven flow (lecture 7), density-driven flow (lecture 8) and compaction-driven flow (lecture 9). The lecture series ends with a series of examples of fluid flow systems in the crust, including fluid flow systems hosted by faults (lecture 10), oceaninc and terrestrial hydrothermal systems (11 and 12) and the interaction between fluid flow and deformation (14).
+This module introduces fluid flow in the crust and the interaction of fluids with geological processes such as heat flow and deformation. After an introduction to the subject (lectures 1, 2), the lecture series introduces the basic physics of crustal fluid flow, heat flow and deformation (lectures 3-6). Subsequently there are three lectures on the main driving forces of crustal fluid flow: topography or -recharge driven flow (lecture 7), density-driven flow (lecture 8) and compaction-driven flow (lecture 9). The lecture series ends with a series of examples of fluid flow systems in the crust, including fluid flow systems hosted by faults (lecture 10), oceanic and terrestrial hydrothermal systems (lectures 11 and 12) and the interaction between fluid flow and deformation (lecture 13).
 
-Elco Luijendijk, elco.luijendijk <at> posteo.net
+Elco Luijendijk, elco.luijendijk at posteo.net
+	
 
 ## Introduction
 * [fluids_in_the_crust_introduction_2019.pdf](fluids_in_the_crust_introduction_2019.pdf)
