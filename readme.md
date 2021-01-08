@@ -12,7 +12,7 @@ Feel free to contact me for questions at elco.luijendijk <at> posteo.net
 Elco Luijendijk
 
 
-<img src="geysers.png" width="48">
+<img src="geysers.png" width="300">
 
 
 ## Course contents
