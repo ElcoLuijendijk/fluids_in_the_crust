@@ -12,7 +12,7 @@ Feel free to contact me for questions at elco.luijendijk <at> posteo.net
 Elco Luijendijk
 
 
-![Fluids escaping the crust](geysers.png)
+<img src="geysers.png" width="48">
 
 
 ## Course contents
