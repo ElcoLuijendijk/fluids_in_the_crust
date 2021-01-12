@@ -16,6 +16,7 @@ Elco Luijendijk, january 2021
 
 
 <img src="geysers.png" width="400">
+
 *Crustal fluids coming to the surface at a geyser field in iceland*
 
 
