@@ -1,5 +1,8 @@
 # Fluids in the crust
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4435162.svg)](https://doi.org/10.5281/zenodo.4435162)
+
+
 This repository contains lecture slides and Jupyter notebooks for a MSc. course named "Fluids in the crust" that was taught at the University of Göttingen from 2014 to 2020.
 
 Feel free to contact me for questions at elco.luijendijk at posteo.net
@@ -44,6 +47,9 @@ After completing this course you will:
 
 ## Citation
 
+Elco Luijendijk (2021). Teaching material for the MSc course Fluids in the crust (Version v1.0). Zenodo. [http://doi.org/10.5281/zenodo.4435162](http://doi.org/10.5281/zenodo.4435162)
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4435162.svg)](https://doi.org/10.5281/zenodo.4435162)
 
 
 ## License
