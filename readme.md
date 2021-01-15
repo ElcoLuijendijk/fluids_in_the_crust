@@ -26,12 +26,12 @@ Elco Luijendijk, january 2021
 ## Course contents
 
 * The course contains a series of 14 lectures that introduce the theory of groundwater flow, heat flow, solute transport and deformation in the crust and that discuss crustal fluid flow systems in a range of geological settings. The slides are located [here](lectures) and you can find an overview here: [lectures/readme.md](lectures/readme.md)
-* In addition, the course contains a set of exercises that let you build simple numerical models of crustal fluid and heat flow in excel and in [Python](https://www.python.org/) using [Jupyter notebooks](https://jupyter.org/). Follow this link to go to the exercises: [exercises/readme.md](exercises/readme.md)
+* In addition, the course contains a set of exercises that let you build simple numerical models of crustal fluid and heat flow in Excel and in [Python](https://www.python.org/) using [Jupyter notebooks](https://jupyter.org/). Follow this link to go to the exercises: [exercises/readme.md](exercises/readme.md)
 
 
 ## Rationale and aims
 
-This course was designed to provide you with broad knowledge on the role of fluids in geological processes, which is relevant to many parts of the geosciences. This course was designed to also teach core scientific concepts such as how to critically evaluate model studies and compare models and geoscience datasets. In addition, this course provides key background information and skills for future research or industry work on topics such as geothermal energy, oil & gas exploration and radioactive waste storage. And finally, the course was also designed to make you familiar with the scripting language Python. Scripting languages like [Python](https://www.python.org/) or Matlab have emerged as key tools in research or industry work.
+This course was designed to provide you with broad knowledge on the role of fluids in geological processes, which is relevant to many parts of the geosciences. This course was designed to also teach core scientific concepts such as how to critically evaluate model studies and compare models and geoscience datasets. In addition, this course provides key knowledge and skills for future research or industry work on topics such as geothermal energy, mineral deposits or the geological storage of CO₂, hydrogen or radioactive waste. And finally, the course was also designed to make you familiar with the scripting language Python. Scripting languages like [Python](https://www.python.org/) or Matlab have emerged as key tools in research or industry work.
   
 
 ## Learning outcomes
